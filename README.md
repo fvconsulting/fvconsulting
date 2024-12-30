@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola, soy Francisco Vargas! 👋
+### Experto en Seguridad Informática y Consultor IT Senior 🌐
 
-<!--
-**fvconsulting/fvconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔒 Especialista en Ciberseguridad y Auditoría IT.
+- ☁️ Certificado en AWS, Azure, y Google Cloud.
+- ⚙️ Experto en DevOps, Terraform, Kubernetes.
+- 🎓 Certificaciones: AWS,GCP,AZURE,PMP,COMPTIA,CRISC,CISA,CISM, CCSK, entre otras
 
-Here are some ideas to get you started:
+### 📈 Proyectos Destacados:
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Contacto:
+- 📧 **Correo:** francisco@fvconsulting.net
+- 💼 [[LinkedIn]([https://linkedin.com/in/francisco-vargas])
+
+---
+**"La tecnología es una herramienta para construir un mundo más seguro y conectado."**

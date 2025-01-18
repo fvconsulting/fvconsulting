@@ -12,7 +12,8 @@
 - **AWS Certified Solutions Architect – Associate**
 - **AWS Certified Solutions Architect – Professional**
 - **AWS Certified Security – Specialty**
-- **AWS Certified DevOps Engineer – Professional** 
+- **AWS Certified DevOps Engineer – Professional**
+- **AWS Certified Networking – Specialty** 
 - **GCP Professional Cloud Architect**
 - **GCP Security – Specialty**
 - **GCP DevOps** *
@@ -24,12 +25,11 @@
 
 #### **Ciberseguridad**
 - **CISM (Certified Information Security Manager)**
-- **CEH (Certified Ethical Hacker)** *(Planeada)*
+- **CEH (Certified Ethical Hacker)** *
 - **CompTIA Security+**
 - **CompTIA CySA+** 
-- **OSCP (Offensive Security Certified Professional)** *(Planeada)*
 - **ISO 27001 Lead Auditor y Lead Implementer**
-- **CRISC (Certified in Risk and Information Systems Control)** *(Planeada)*
+- **CRISC (Certified in Risk and Information Systems Control)** *(
 
 #### **Gestión de Proyectos y Auditorías**
 - **PMP (Project Management Professional)**
